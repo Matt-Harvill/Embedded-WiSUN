@@ -10,7 +10,7 @@ This directory contains projects for TI's <u>CC1312R7</u> and <u>CC1352P7-1</u> 
 
  # Flashing
 
- To flash your devices with these projects, click the debug button and `Run as Code Composer Studio Debug Session`. After all popups disappear, click the green arrow and then terminate with the red square. Now your device is correctly flashed.
+ To flash your devices with these projects, click the debug button and `Debug as Code Composer Studio Debug Session`. After all popups disappear, click the green arrow and then terminate with the red square. Now your device is correctly flashed.
 
  # Important Notes
 
