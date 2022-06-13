@@ -4,7 +4,11 @@
 
 This application is built on top of TI's Wi-SUN stack to provide the user with sound and motion data from a network of nodes that support CoAP requests to `/mic` and `/pir` URIs. This application was developed by a 2021-2022 UTDesign team along with the corresponding hardware to capture the sound and motion data.
 
-Although not shown in the code here, the data captured was pushed to a cloud-based time-series database, which was then used to populate and visualize the data in a publicly hosted website *(This would be relatively simple to add if desired)*.
+<div align="center" >
+    <img src="./images/Boosterpack-Cropped.jpg" alt="Boosterpack" width="300" />
+</div>
+
+Although not shown in the code from this repository, the data captured was pushed to a cloud-based time-series database, which was then used to populate and visualize the data in a publicly hosted website *(This would be relatively simple to add if desired)*.
 
 ## Running
 
