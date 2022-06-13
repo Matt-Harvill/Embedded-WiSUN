@@ -1,6 +1,6 @@
 # Overview and Setup
 
-This directory contains projects for TI's <u>CC1312R7</u> and <u>CC1352P7-1</u> Launchpads. To flash the devices, import these projects into TI's CCS (Code Composer Studio). This is done by following `File -> Import -> C/C++ -> CCS Projects` then click `Next`, nagivate to this directory, and for each project, select both boxes shown below:
+This directory contains projects for TI's <u>CC1312R7</u> and <u>CC1352P7-1</u> Launchpads. To flash the devices, import these projects into TI's CCS (Code Composer Studio). This is done by following `File -> Import -> C/C++ -> CCS Projects` then click `Next`, navigate to this directory, and for each project, select both boxes shown below:
 
 <div align="center" >
     <img src="../images/Import Settings Image.png" alt="Import Settings" />
