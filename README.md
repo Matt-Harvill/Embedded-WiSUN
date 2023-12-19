@@ -1,4 +1,4 @@
-# Motion/Sound Wi-SUN Application
+# Embedded Wi-SUN Proof of Concept
 
 ## Background
 
